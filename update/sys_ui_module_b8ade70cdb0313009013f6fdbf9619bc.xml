@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="BU Table">fcade70cdb0313009013f6fdbf9619ad</application>
+        <filter/>
+        <name>BU Tables</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_134457_git_video.bu_table_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-27 18:51:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b8ade70cdb0313009013f6fdbf9619bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BU Tables</sys_name>
+        <sys_package display_value="GIT VIDEO" source="x_134457_git_video">d6a86308db0313009013f6fdbf9619bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GIT VIDEO">d6a86308db0313009013f6fdbf9619bd</sys_scope>
+        <sys_update_name>sys_ui_module_b8ade70cdb0313009013f6fdbf9619bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-27 18:51:37</sys_updated_on>
+        <table>x_134457_git_video_bu_table</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

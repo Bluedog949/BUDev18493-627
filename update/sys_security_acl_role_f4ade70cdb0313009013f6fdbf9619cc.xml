@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-27 18:51:37</sys_created_on>
+        <sys_id>f4ade70cdb0313009013f6fdbf9619cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_134457_git_video_bu_table.x_134457_git_video.bu_table_user</sys_name>
+        <sys_package display_value="GIT VIDEO" source="x_134457_git_video">d6a86308db0313009013f6fdbf9619bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GIT VIDEO">d6a86308db0313009013f6fdbf9619bd</sys_scope>
+        <sys_security_acl display_value="x_134457_git_video_bu_table">b8ade70cdb0313009013f6fdbf9619c8</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f4ade70cdb0313009013f6fdbf9619cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-27 18:51:37</sys_updated_on>
+        <sys_user_role display_value="x_134457_git_video.bu_table_user" name="x_134457_git_video.bu_table_user">e0ad670cdb0313009013f6fdbf961975</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
